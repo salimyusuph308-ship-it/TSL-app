@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Copy of Copy of Copy of Copy of Remix: Remix: AfyaSign TSL Assistant",
+  "description": "A specialized hospital communication app for Tanzanian Sign Language (TSL), featuring an AI medical avatar for signing instructions, nurse-to-patient video loops, and an emergency panic board.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
